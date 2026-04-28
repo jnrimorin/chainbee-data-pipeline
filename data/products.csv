@@ -1,0 +1,66 @@
+sku_id,product_name,category,unit_cost,shelf_life_days,uom
+SKU-0001,Whole Chicken 1kg,Chicken,₱158.37,3,unit
+SKU-0002,Chicken Breast Fillet 500g,Chicken,₱96.98,5,unit
+SKU-0003,Chicken Wings 500g,Chicken,73.48,,unit
+SKU-0004,Chicken Drumsticks 1kg,Chicken,88.75,,unit
+SKU-0005,Chicken Thigh Fillet 500g,Chicken,93.95,3,unit
+SKU-0006,Pork Belly Slab 1kg,Pork,₱224.92,5,unit
+SKU-0007,Pork Liempo 1kg,Pork,₱222.83,6,unit
+SKU-0008,Ground Pork 500g,Pork,₱95.11,4,unit
+SKU-0009,Pork Chops 500g,Pork,162.26,4,unit
+SKU-0010,Pork Ears 500g,Pork,₱98.92,5,unit
+SKU-0011,Bangus 1kg,Seafood,153.3,4,unit
+SKU-0012,Tilapia 1kg,Seafood,83.48,2,unit
+SKU-0013,Squid 500g,Seafood,141.32,3,unit
+SKU-0014,Shrimp 500g,Seafood,₱213.57,2,unit
+SKU-0015,Tuna Fillet 500g,Seafood,193.61,2,unit
+SKU-0016,Beef Brisket 1kg,Beef,₱383.55,5,unit
+SKU-0017,Ground Beef 500g,Beef,₱182.36,5,unit
+SKU-0018,Beef Sirloin 500g,Beef,333.54,4,unit
+SKU-0019,Beef Tapa Sliced 500g,Beef,₱202.90,6,unit
+SKU-0020,Cabbage 1kg,Vegetables,31.99,10,unit
+SKU-0021,Carrots 1kg,Vegetables,49.44,14,unit
+SKU-0022,Onions 1kg,Vegetables,₱55.71,22,unit
+SKU-0023,Garlic 500g,Vegetables,89.88,19,unit
+SKU-0024,Tomatoes 1kg,Vegetables,48.77,5,unit
+SKU-0025,Potatoes 1kg,Vegetables,80.23,12,unit
+SKU-0026,Kangkong 500g,Vegetables,35.84,,unit
+SKU-0027,Sitaw (String Beans) 500g,Vegetables,34.54,5,unit
+SKU-0028,Ampalaya (Bitter Gourd) 500g,Vegetables,₱47.01,7,unit
+SKU-0029,Bananas (Lakatan) 1kg,Fruits,₱63.06,6,unit
+SKU-0030,Mangoes 1kg,Fruits,87.22,9,unit
+SKU-0031,Pineapple Each,Fruits,78.88,5,unit
+SKU-0032,Papaya 1kg,Fruits,₱56.12,9,unit
+SKU-0033,Premium Rice 25kg,Rice & Grains,"₱1,159.67",315,unit
+SKU-0034,Regular Rice 25kg,Rice & Grains,1079.62,208,unit
+SKU-0035,Glutinous Rice 5kg,Rice & Grains,292.91,258,unit
+SKU-0036,All-Purpose Flour 1kg,Dry Goods,₱53.38,100,unit
+SKU-0037,White Sugar 1kg,Dry Goods,52.57,,unit
+SKU-0038,Brown Sugar 1kg,Dry Goods,82.82,,unit
+SKU-0039,Cooking Oil 1L,Dry Goods,113.76,335,unit
+SKU-0040,Coconut Oil 1L,Dry Goods,₱125.39,356,unit
+SKU-0041,Soy Sauce 1L,Dry Goods,₱56.03,346,unit
+SKU-0042,Fish Sauce 350ml,Dry Goods,39.34,243,unit
+SKU-0043,Sukang Paombong 1L,Dry Goods,₱35.62,482,unit
+SKU-0044,Banana Ketchup 320g,Dry Goods,₱49.71,395,unit
+SKU-0045,Bottled Water 500ml,Beverages,9.6,198,unit
+SKU-0046,Orange Juice 1L,Beverages,₱80.57,64,unit
+SKU-0047,Pineapple Juice 1L,Beverages,59.63,60,unit
+SKU-0048,Buko Juice 1L,Beverages,58.5,15,unit
+SKU-0049,Iced Tea Mix 1L,Beverages,42.91,149,unit
+SKU-0050,Ice Cream Vanilla 1L,Frozen,₱171.83,50,unit
+SKU-0051,Frozen Fries 1kg,Frozen,84.92,57,unit
+SKU-0052,Frozen Corn Kernels 500g,Frozen,₱64.37,34,unit
+SKU-0053,Take-Out Boxes Small (100pcs),Packaging,₱101.09,403,unit
+SKU-0054,Take-Out Boxes Large (100pcs),Packaging,126.59,390,unit
+SKU-0055,Paper Bags Medium (50pcs),Packaging,86.09,,unit
+SKU-0056,Plastic Cups 16oz (50pcs),Packaging,73.73,573,unit
+SKU-0057,Straws Pack (200pcs),Packaging,₱39.71,395,unit
+SKU-0058,Burger Sauce 1kg,Condiments,₱88.23,296,unit
+SKU-0059,Gravy Mix 500g,Condiments,71.41,322,unit
+SKU-0060,Chili Garlic Sauce 500g,Condiments,103.09,235,unit
+SKU-0061,Mayonnaise 1kg,Condiments,138.44,130,unit
+SKU-0062,Lechon Sauce 320g,Condiments,41.71,315,unit
+SKU-0063,Halo-Halo Mix 500g,Specialty,91.02,,unit
+SKU-0064,Leche Flan Mix 500g,Specialty,67.43,120,unit
+SKU-0065,Palabok Mix 500g,Specialty,66.15,164,unit

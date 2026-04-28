@@ -1,0 +1,52 @@
+store_id,store_name,city,region,format,opened_date,primary_supplier
+CB-001,ChainBee Quezon City,Quezon City,Luzon,Dine-In,2021-09-01,SUP-010
+CB-002,ChainBee Quezon City Branch 2,Quezon City,Luzon,Express,2015-12-02,SUP-011
+CB-003,ChainBee Quezon City Branch 3,Quezon City,Luzon,Grocery,2021-07-18,SUP-009
+CB-004,ChainBee Makati,Makati,Luzon,Express,2018-07-19,SUP-004
+CB-005,ChainBee Makati Branch 2,Makati,Luzon,Grocery,2022-07-06,SUP-006
+CB-006,ChainBee Taguig,Taguig,Luzon,Express,2017-09-04,SUP-007
+CB-007,ChainBee Taguig Branch 2,Taguig,Luzon,Grocery,2016-06-20,SUP-011
+CB-008,ChainBee Pasig,Pasig,Luzon,Express,2018-05-13,SUP-006
+CB-009,ChainBee Pasig Branch 2,Pasig,Luzon,Dine-In,2023-06-07,SUP-001
+CB-010,ChainBee Marikina,Marikina,Luzon,Grocery,2020-02-21,SUP-010
+CB-011,ChainBee Manila,Manila,Luzon,Dine-In,2016-02-14,SUP-009
+CB-012,ChainBee Manila Branch 2,Manila,Luzon,Grocery,2017-05-23,SUP-005
+CB-013,ChainBee Manila Branch 3,Manila,Luzon,Express,2016-06-26,SUP-002
+CB-014,ChainBee Caloocan,Caloocan,Luzon,Express,2017-09-27,SUP-005
+CB-015,ChainBee Caloocan Branch 2,Caloocan,Luzon,Express,2016-10-08,SUP-009
+CB-016,ChainBee Paranaque,Paranaque,Luzon,Express,2022-11-21,SUP-010
+CB-017,ChainBee Paranaque Branch 2,Paranaque,Luzon,Grocery,2022-05-02,SUP-001
+CB-018,ChainBee Muntinlupa,Muntinlupa,Luzon,Grocery,2022-06-28,SUP-005
+CB-019,ChainBee Cavite City,Cavite City,Luzon,Dine-In,2022-06-10,SUP-003
+CB-020,ChainBee Bacoor,Bacoor,Luzon,Dine-In,2017-12-19,SUP-002
+CB-021,ChainBee Santa Rosa,Santa Rosa,Luzon,Grocery,2023-04-29,SUP-003
+CB-022,ChainBee Batangas City,Batangas City,Luzon,Express,2018-01-20,SUP-010
+CB-023,ChainBee Lipa City,Lipa City,Luzon,Grocery,2017-05-12,SUP-006
+CB-024,ChainBee Baguio,Baguio,Luzon,Grocery,2017-04-13,SUP-011
+CB-025,ChainBee San Fernando,San Fernando,Luzon,Grocery,2017-12-17,SUP-008
+CB-026,ChainBee Iloilo City,Iloilo City,Visayas,Dine-In,2017-10-25,SUP-002
+CB-027,ChainBee Iloilo City Branch 2,Iloilo City,Visayas,Express,2022-02-11,SUP-005
+CB-028,ChainBee Bacolod,Bacolod,Visayas,Dine-In,2015-06-30,SUP-006
+CB-029,ChainBee Bacolod Branch 2,Bacolod,Visayas,Dine-In,2023-08-25,SUP-011
+CB-030,ChainBee Dumaguete,Dumaguete,Visayas,Dine-In,2017-12-08,SUP-012
+CB-031,ChainBee Tacloban,Tacloban,Visayas,Grocery,2019-12-15,SUP-012
+CB-032,ChainBee Ormoc,Ormoc,Visayas,Grocery,2019-10-18,SUP-001
+CB-033,ChainBee Cebu City,Cebu City,Mindanao,Dine-In,2016-04-03,SUP-012
+CB-034,ChainBee Cebu City Branch 2,Cebu City,Mindanao,Grocery,2016-09-02,SUP-001
+CB-035,ChainBee Mandaue,Mandaue,Mindanao,Grocery,2019-02-21,SUP-009
+CB-036,ChainBee Lapu-Lapu City,Lapu-Lapu City,Mindanao,Express,2016-08-29,SUP-003
+CB-037,ChainBee Talisay,Talisay,Mindanao,Express,2015-06-21,SUP-006
+CB-038,ChainBee Tagbilaran,Tagbilaran,Mindanao,Express,2015-06-13,SUP-004
+CB-039,ChainBee Davao City,Davao City,Mindanao,Dine-In,2022-08-25,SUP-011
+CB-040,ChainBee Davao City Branch 2,Davao City,Mindanao,Express,2016-02-26,SUP-009
+CB-041,ChainBee Davao City Branch 3,Davao City,Mindanao,Grocery,2019-07-23,SUP-012
+CB-042,ChainBee Cagayan de Oro,Cagayan de Oro,Mindanao,Dine-In,2016-09-25,SUP-003
+CB-043,ChainBee Cagayan de Oro Branch 2,Cagayan de Oro,Mindanao,Express,2016-12-26,SUP-001
+CB-044,ChainBee General Santos,General Santos,Mindanao,Grocery,2017-01-04,SUP-006
+CB-045,ChainBee Iligan,Iligan,Mindanao,Grocery,2019-08-14,SUP-012
+CB-046,ChainBee Zamboanga City,Zamboanga City,Mindanao,Express,2017-10-13,SUP-003
+CB-047,ChainBee Butuan,Butuan,Mindanao,Dine-In,2022-11-12,SUP-007
+CB-048,ChainBee Koronadal,Koronadal,Mindanao,Express,2015-06-08,SUP-004
+CB-017,ChainBee Paranaque Branch 2,Paranaque,Luzon,Express,2022-06-05,SUP-001
+CB-025,ChainBee San Fernando,San Fernando,Luzon,Dine-In,2018-01-07,SUP-008
+CB-022,ChainBee Batangas City,Batangas City,Luzon,Dine-In,2018-03-06,SUP-010
