@@ -56,10 +56,8 @@ The goal is to enable insights such as fill rate, supplier reliability, and spoi
     4. Create Reporting Layer
     Create views in BigQuery (logistics_reporting):
        `project-chainbee.logistics_reporting.store_fill_rate`
-       `project-chainbee.logistics_reporting.spoilage_risk_score`
-       `project-chainbee.logistics_reporting.supplier_reliability_score`
-       `project-chainbee.logistics_reporting.inventory_on_hand`
-       `project-chainbee.logistics_reporting.reorder_flag`
+       `project-chainbee.logistics_reporting.store_sku_metrics`
+       `project-chainbee.logistics_reporting.supplier_reliability_score
     Compute business metrics: Fill Rate, Supplier Reliability, Spoilage Risk
 
     5. Visualization
